@@ -873,7 +873,7 @@ align-items: center;
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("../images/Subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
